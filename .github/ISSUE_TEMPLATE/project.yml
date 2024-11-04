@@ -1,0 +1,57 @@
+name: Project Submission
+description: "Add your project here to participate and win prizes!"
+title: "Project: <short description>"
+body:
+  - type: input
+    id: name
+    attributes:
+      label: Project Name
+      description: Name of your project
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: Provide a short description of your submission. Who can benefit from the solution?
+    validations:
+      required: true
+  - type: checkboxes
+    attributes:
+      label: General Project Category
+      description: What topic category does your submission align with.
+      options:
+        - label: World Issues
+          required: false
+        - label: Open-Source
+          required: false  
+        - label: Scientific Computing
+          required: false 
+  - type: input
+    id: url_repo
+    attributes:
+      label: Project Repository URL
+      description: URL of the GitHub repo with your project
+    validations:
+      required: true
+  - type: input
+    id: url_endpoint
+    attributes:
+      label: Deployed Endpoint URL
+      description: URL of a deployed endpoint (if it can be publicly shared, not for private data)
+    validations:
+      required: false
+  - type: input
+    id: video
+    attributes:
+      label: Project Video File (not folder) Link (ensure viewer access)
+      description: A short demo video of your project
+    validations:
+      required: true
+  - type: input
+    id: teammembers
+    attributes:
+      label: Team Members
+      description: Comma-separated list of GitHub users who worked on this project
+    validations:
+      required: true
