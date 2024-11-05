@@ -1,0 +1,6 @@
+- [HelpSteer2: Open-source dataset for training top-performing reward models](https://huggingface.co/datasets/nvidia/HelpSteer2)
+- [HuggingFace](https://huggingface.co/datasets)
+- [Kaggle](https://www.kaggle.com/datasets)
+- [KDnuggets](https://www.kdnuggets.com/datasets/index.html)
+- [Tensorflow](https://www.tensorflow.org/datasets/catalog/overview)
+- https://github.com/awesomedata/awesome-public-datasets
