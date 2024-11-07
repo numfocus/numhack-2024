@@ -53,6 +53,8 @@ Submit your project here when it's ready: **[Project Submission]()**
 
 **Requirements**: Computer, internet, GitHub for submission, Discord for chat, Airmeet for streams.
 
+**Platform Credits**: $500 in compute credits available from Modal during event. Modal also includes $30/month in free credits so you can familiarize yourself with the platform. [Here](https://modal.com/)
+
 **Mentors** will be available, assigned based on field of expertise and topic of interest.
 
 ### Workshops and Examples
