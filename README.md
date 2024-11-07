@@ -22,20 +22,13 @@ You can participate individually or in teams of 2 to 5 members. Team formation w
 
 **Hackathon:** Nov 22 - Nov 24
 
-**Submission Deadline:** Nov 25 noon UTC
-
 **Judging:** Nov 25 - December 3
 
 **Winner announcement**: Dec 5, 9-10 am PST, during the PyData Global online event
 
 ### Schedule ⏰
 
-| Day/time     | Topic        |
-| ------------ | ------------ |
-| Nov 22 12:00 | Keynote      |
-| Nov 22 2:00  | Charles talk |
-| Nov 22 3:00  | Demo 1       |
-| Nov 22 4:00  | Demo 2       |
+See on our [Website](https://pydata.org/numhack#workshops)
 
 ## Project Guidelines 📋
 
@@ -50,18 +43,17 @@ Architect and train models, customize existing algorithms, or fine-tune on novel
 Use AI tools to derive insights, create visualizations, and inform decision-making. This category focuses on submissions that utilize AI for data analysis and interpretation. Projects should aim to uncover hidden patterns or insights within datasets or models. Submissions could include predictive modeling, visualization dashboards, or reports demonstrating how data analysis can be leveraged to improve understanding and outcomes in various fields. Submissions could also include deep dives into components of AI systems with a research focus.
 
 ## Submission Guidelines 🚀
-**Submissions Deadline**: November 24, 11:59pm AOE (Anywhere On Earth)
+**Submissions Deadline**: November 25, 12:00 UTC
 
 **Submission Requirements**: Github repo with source code and documentation & 3-5 minute demo. [Details Here](Documentation/Submission_Guide.md)
-
-## Submission 📬
-Hackathon submissions are due November 24, 11:59pm AOE (Anywhere On Earth)
 
 Submit your project here when it's ready: **[Project Submission]()**
 
 ## Tools, Resources, and Mentorship 🛠️👨‍🏫
 
 **Requirements**: Computer, internet, GitHub for submission, Discord for chat, Airmeet for streams.
+
+**Platform Credits**: $500 in compute credits available from Modal during event. Modal also includes $30/month in free credits so you can familiarize yourself with the platform. [Here](https://modal.com/)
 
 **Mentors** will be available, assigned based on field of expertise and topic of interest.
 
@@ -92,6 +84,15 @@ Winners will be notified via email and through the official hackathon Discord ch
 
 ## Prizes and awards 🥇
 
+Category|1st|2nd|3rd|
+|---|---|---|---|
+|Build|$700|$500|$300|
+|Train|$700|$500|$300|
+|Analyse|$700|$500|$300|
+|Community Favorite|$500|
+|Platform Credits|$5000|Modal|
+
+
 ### Main Prizes 💰
 Projects will be evaluated by a panel of judges, including domain professionals, AI experts, sustainability and social impact champions, industry experts, and company representatives. Judging criteria will include innovation, impact, technical execution, usability, and presentation and documentation. Cash prizes will be awarded for top 3 teams and each category: Build, Train, Analyse.
 
@@ -102,11 +103,8 @@ Prizes will be announced during the PyData Global Conference 📺! Tune in to th
 #### Community Favorite 🏅
 This special prize will be awarded to the project that garners the most support from the PyData community. Voting will take place during the PyData Global Conference, where attendees will have the opportunity to review and vote for their favorite project. The Community Favorite prize recognizes projects that resonate with and inspire the broader audience, showcasing creativity, impact, and relevance. The winner of the Community Favorite category will be announced live before the PyData Global Conference closing session on December 5, 2024.
 
-#### Sponsor Awards 🎖️
+#### Infrastructure Sponsor Award 🎖️
 Modal, our infrastructure sponsor, will be awarding a special prize of $5,000 USD in Modal platform credits to one team that demonstrates the best and most innovative use of Modal's infrastructure within their project. The judging criteria for this award will focus on how effectively and creatively the team integrated Modal's services, showcasing the potential of cloud-native infrastructure in supporting AI development and deployment.
-
-#### Platform Credits 💻
-Each participating team will receive $500 USD worth of Modal credits during the hackathon. These credits are meant to facilitate project development by providing access to cloud computing resources, allowing teams to build, train, and analyze their models without constraints. This support helps ensure participants have the resources needed to experiment, iterate, and optimize their solutions effectively.
 
 ## Sponsors 🤝
 A big thank you to our sponsors for making NumHack possible! Your generous support helps foster innovation, learning, and positive change through technology. We deeply appreciate the commitment of our sponsors who share our vision of advancing open-source AI and addressing global challenges.
