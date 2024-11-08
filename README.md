@@ -47,7 +47,7 @@ Use AI tools to derive insights, create visualizations, and inform decision-maki
 
 **Submission Requirements**: Github repo with source code and documentation & 3-5 minute demo. [Details Here](Documentation/Submission_Guide.md)
 
-Submit your project here when it's ready: **[Project Submission]()**
+Submit your project here during the hackathon: **[Project Submission]()**
 
 ## Tools, Resources, and Mentorship 🛠️👨‍🏫
 
