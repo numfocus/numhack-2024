@@ -51,4 +51,4 @@ Create a dashboard to analyze and visualize AI literacy gaps by comparing educat
 
 ### Submission items
 - **Deliverable**: Jupyter Notebook and interactive dashboard
-- **Documentation**: Summary of data sources, methods, and key insights
+- **Documentation**: Summary of data sources, methods, and key insights, justification for data selection and preparation process
