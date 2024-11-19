@@ -61,8 +61,9 @@ Submit your project here during the hackathon: **[Project Submission]()**
 
 - Building an Open Source RAG Pipeline - IBM, AI Alliance - Nov 14 17:00 UTC
 - Finetuning Language Models - Andrew Siah - Nov 15 19:00 UTC
-- Building Agentic and Multi-Agent Systems with LangGraph - AI Makerspace
-- [More Here](Documentation/Examples.md)
+- Building Agentic and Multi-Agent Systems with LangGraph - [Dr. Greg Looughnane](https://www.linkedin.com/in/gregloughnane/) & [Chris "The Wiz" Alexiuk](https://www.linkedin.com/in/csalexiuk/) - Nov 22 14:00-16:00 UTC
+
+[**See all workshops on Airmeet!**](https://www.airmeet.com/e/cc5a1690-8bf1-11ef-9d16-f500357a2a69)
 
 ### Modal Documentation and Guide
 [Modal.com/docs](https://modal.com/docs)
