@@ -85,13 +85,14 @@ Winners will be notified via email and through the official hackathon Discord ch
 
 ## Prizes and awards 🥇
 
-Category|1st|2nd|3rd|
-|---|---|---|---|
-|Build|$700|$500|$300|
-|Train|$700|$500|$300|
-|Analyse|$700|$500|$300|
-|Community Favorite|$500|
-|Platform Credits|$5000|Modal|
+| Category           | 1st          | 2nd         | 3rd  |
+| ------------------ | ------------ | ----------- | ---- |
+| Build              | $700         | $500        | $300 |
+| Train              | $700         | $500        | $300 |
+| Analyse            | $700         | $500        | $300 |
+| Community Favorite | $500         |
+| Platform Credits   | $5000        | Modal       |
+| Sponsor Award      | $500 credits | Lighting AI |
 
 
 ### Main Prizes 💰
@@ -122,7 +123,7 @@ Lighting AI - For sponsoring technically category prizes
 
 ### Community Partners 🌍
 
-<img src="Images/data_natives_icon.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="Images/data_umbrella_icon.png" width="100"> &nbsp;&nbsp;&nbsp; <img src="Images/ai_alliance_icon.png" width="200">
+<img src="Images/data_natives_icon.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="Images/data_umbrella_icon.png" width="100"> &nbsp;&nbsp;&nbsp; <img src="Images/ai_alliance_icon.png" width="200"> &nbsp;&nbsp;&nbsp; <img src="Images/perplexity_ai.png" width="200">
 
 
 ## Other 📜
