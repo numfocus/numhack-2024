@@ -16,17 +16,62 @@ body:
       description: Provide a short description of your submission. Who can benefit from the solution?
     validations:
       required: true
+  - type: markdown
+    attributes:
+       value: "## Technical Category"
+  - type: dropdown
+    id: category_build
+    attributes:
+      label: Build
+      description: Does your project align with the Build category?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: category_train
+    attributes:
+      label: Train
+      description: Does your project align with the Train category?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
+  - type: dropdown
+    id: category_analyze
+    attributes:
+      label: Analyze
+      description: Does your project align with the Analyze category?
+      options:
+        - 'Yes'
+        - 'No'
+    validations:
+      required: true
   - type: checkboxes
     attributes:
-      label: General Project Category
+      label: Challenge Topic / Topic Category
       description: What topic category does your submission align with.
       options:
-        - label: World Issues
+        - label: Customized Information Extraction
           required: false
-        - label: Open-Source
-          required: false  
-        - label: Scientific Computing
-          required: false 
+        - label: Education
+          required: false
+        - label: Enhancing Accessibility in Healthcare Through AI
+          required: false
+        - label: Mitigating Natural Disasters in a Changing Climate
+          required: false
+        - label: Reducing Food Waste Through AI-Powered Innovation
+          required: false
+        - label: other - World Issues
+          required: false
+        - label: other - Open-Source
+          required: false
+        - label: other - Scientific Computing
+          required: false
+        - label: other
+          required: false
   - type: input
     id: url_repo
     attributes:

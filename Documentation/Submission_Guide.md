@@ -23,4 +23,4 @@ Submissions to this category are in depth analyses into AI topics, alongside res
 
 ## 2. Create a short video demonstrating your submission running, outlining key relevant details and highlighting innovative approaches and findings.
 
-## 3. Create an issue at https://github.com/numfocus/numhack-2024, select what category you are submitting to and link to your Github repository and video.
+## 3. Create an Issue at https://github.com/numfocus/numhack-2024/issues, select what category you are submitting to and link to your Github repository and video. Once Issue has been created, also select a Label on the Issue page, indicating the technical category using the Label options; a-build, a-train, a-analyze.
